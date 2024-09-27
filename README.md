@@ -1,7 +1,5 @@
 # works-studio-clone
 
-# Works Studio - Website Clone
-
 This is a clone of the **Works Studio** website, created using **HTML**, **CSS**, **JavaScript**, and advanced animation libraries such as **Locomotive Scroll**, **GSAP**, and **ScrollTrigger**.
 
 ## Table of Contents
