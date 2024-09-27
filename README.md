@@ -9,13 +9,12 @@ This is a clone of the **Works Studio** website, created using **HTML**, **CSS**
 - [Overview](#overview)
 - [Technologies](#technologies)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 
 ## Overview
 
-The **Works Studio** website clone is a dynamic, responsive web project designed to replicate a modern, visually engaging portfolio website. It focuses heavily on smooth scrolling animations and interactive elements powered by libraries like Locomotive Scroll and GSAP.
+The **Works Studio** website clone is a dynamic, responsive web project which focuses heavily on smooth scrolling animations and interactive elements powered by libraries like Locomotive Scroll and GSAP.
 
 ## Technologies
 
@@ -33,10 +32,3 @@ The **Works Studio** website clone is a dynamic, responsive web project designed
 - **Responsive Design**: Fully responsive across various devices, ensuring a seamless user experience on mobile, tablet, and desktop.
 - **Optimized Performance**: Lightweight code structure and performance-oriented CSS and JavaScript.
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/works-studio.git
